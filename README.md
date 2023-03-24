@@ -43,7 +43,7 @@ will be able to interact with the Apache demo, make changes and contribute!
 
 `javascript:["https://cdn.jsdelivr.net/gh/dom111/webdav-js/assets/css/style-min.css","https://cdn.jsdelivr.net/gh/dom111/webdav-js/src/webdav-min.js"].forEach((function(e,s){/css$/.test(e)?((s=document.createElement("link")).href=e,s.rel="stylesheet"):(s=document.createElement("script")).src=e,document.head.appendChild(s)}));`
 
-[or drag this link directly](javascript:%5B%22https%3A//cdn.jsdelivr.net/gh/dom111/webdav-js/assets/css/style-min.css%22%2C%22https%3A//cdn.jsdelivr.net/gh/dom111/webdav-js/src/webdav-min.js%22%5D.forEach%28%28function%28e%2Cs%29%7B/css%24/.test%28e%29%3F%28%28s%3Ddocument.createElement%28%22link%22%29%29.href%3De%2Cs.rel%3D%22stylesheet%22%29%3A%28s%3Ddocument.createElement%28%22script%22%29%29.src%3De%2Cdocument.head.appendChild%28s%29%7D%29%29%3B)
+or drag this link directly: <a href="javascript:%5B%22https%3A//cdn.jsdelivr.net/gh/dom111/webdav-js/assets/css/style-min.css%22%2C%22https%3A//cdn.jsdelivr.net/gh/dom111/webdav-js/src/webdav-min.js%22%5D.forEach%28%28function%28e%2Cs%29%7B/css%24/.test%28e%29%3F%28%28s%3Ddocument.createElement%28%22link%22%29%29.href%3De%2Cs.rel%3D%22stylesheet%22%29%3A%28s%3Ddocument.createElement%28%22script%22%29%29.src%3De%2Cdocument.head.appendChild%28s%29%7D%29%29%3B)">Browse WebDAV</a>
 
 ### Apache:
 
